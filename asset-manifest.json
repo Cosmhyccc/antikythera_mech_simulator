@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/antikythera_mech_simulator/static/css/main.e9dba575.css",
+    "main.js": "/antikythera_mech_simulator/static/js/main.cc8592dc.js",
+    "static/js/453.4756efc3.chunk.js": "/antikythera_mech_simulator/static/js/453.4756efc3.chunk.js",
+    "index.html": "/antikythera_mech_simulator/index.html",
+    "main.e9dba575.css.map": "/antikythera_mech_simulator/static/css/main.e9dba575.css.map",
+    "main.cc8592dc.js.map": "/antikythera_mech_simulator/static/js/main.cc8592dc.js.map",
+    "453.4756efc3.chunk.js.map": "/antikythera_mech_simulator/static/js/453.4756efc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9dba575.css",
+    "static/js/main.cc8592dc.js"
+  ]
+}
