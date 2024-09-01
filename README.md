@@ -1,2 +1,1 @@
-# Antikythera mech simulator -> 
- https://tinyurl.com/r47dyjrr
+checkitoutttt https://tinyurl.com/antikythera-mech
